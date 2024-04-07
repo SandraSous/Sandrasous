@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-<!--Cabeçalhos-->
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### titulo 6
+*italico* ou_italico_
 
+**Negrito** ou __negrito__
 
+___negrito e italico___
+
+-Lista 1
+-Lista2
+ -Sublista
+
+ 
 <!--
 **SandraSous/Sandrasous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
