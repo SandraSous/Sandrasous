@@ -7,11 +7,11 @@
 
 ___negrito e italico___
 
--Lista 1
--Lista2
- -Sublista
+- Lista 1
+- Lista2
+ - Sublista
 
- 
+
 <!--
 **SandraSous/Sandrasous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
