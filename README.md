@@ -1,19 +1,26 @@
-### Hi there 👋
+## Sejam  bem vindos ao meu mundo!
+
+![gif do gatinho](https://media1.tenor.com/m/fn1jYTSFywkAAAAC/cat-typing.gif)
 
 
-*italico* ou_italico_
+👽 Olá, me chamo Sandra De Sousa!
 
-**Negrito** ou __negrito__
+📃 Sou analista de faturamento
+ Estudante de Sistemas de informação.
 
-___negrito e italico___
+ 📫 [Acesse o meu linkedin](https://www.linkedin.com/in/sandra-sousa-2a866729a)
 
-- Lista 1
-- Lista2
- - Sublista
+ ----------
 
-  1. Lista 1
-  2. Lista 2
-     1. Sublista
+ ## Minhas tecnologias
+
+  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px">
+  ----------
+  |Cursos| Certificados|
+  |------|-------------|
 
 
 <!--
