@@ -23,11 +23,15 @@
   
   ----------
   |Cursos| Certificados|
+  
   |------|-------------|
 
  |Introdução ao Srum|[Certificado] (https://hermes.dio.me/certificates/ASPBMROH.pdf)
+ |---------------------------------------------------------------------------------|
  |DevOps e Processos de Desenvolvimento de Software|[Certificado](https://hermes.dio.me/certificates/LVPRVZKQ.pdf)
+  |---------------------------------------------------------------------------------|
  |Logica de Programação|[Certificado](https://hermes.dio.me/certificates/XFB05DLD.pdf)
+  |---------------------------------------------------------------------------------|
  |Conceitos de IA|[Certificado](https://hermes.dio.me/certificates/MUNSLGXN.pdf)
 
 
