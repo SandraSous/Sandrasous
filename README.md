@@ -14,7 +14,7 @@
 
  ## Minhas tecnologias
 
-<<<<<<< HEAD
+
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100px">
    
 =======
@@ -30,7 +30,7 @@
  |Logica de Programação|[Certificado](https://hermes.dio.me/certificates/XFB05DLD.pdf)
  |Conceitos de IA|[Certificado](https://hermes.dio.me/certificates/MUNSLGXN.pdf)
 
-======
+
 
 
 <!--
