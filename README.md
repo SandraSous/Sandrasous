@@ -23,7 +23,7 @@
   
   ----------
    Cursos    Certificados
-  | --------|-------------|
+  
   
 
  |Introdução ao Srum|[Certificado] (https://hermes.dio.me/certificates/ASPBMROH.pdf)
