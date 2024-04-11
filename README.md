@@ -25,13 +25,13 @@
    |--------|--------------|
     
 
- |Introdução ao Srum|[Certificado](https://hermes.dio.me/certificates/ASPBMROH.pdf)
+ | Introdução ao Srum |[Certificado](https://hermes.dio.me/certificates/ASPBMROH.pdf)
 
- |DevOps e Processos de Desenvolvimento de Software|[Certificado](https://hermes.dio.me/certificates/LVPRVZKQ.pdf)
+ | DevOps e Processos de Desenvolvimento de Software |[Certificado](https://hermes.dio.me/certificates/LVPRVZKQ.pdf)
 
- |Logica de Programação|[Certificado](https://hermes.dio.me/certificates/XFB05DLD.pdf)
+ | Logica de Programação |[Certificado](https://hermes.dio.me/certificates/XFB05DLD.pdf)
 
- |Conceitos de IA|[Certificado](https://hermes.dio.me/certificates/MUNSLGXN.pdf)
+ | Conceitos de IA |[Certificado](https://hermes.dio.me/certificates/MUNSLGXN.pdf)
 
 -------------------------
 ![Sandra Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrasous&show_icons=true&theme=radical)
