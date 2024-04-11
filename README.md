@@ -25,7 +25,7 @@
   
   
 
- |Introdução ao Srum|[Certificado] (https://hermes.dio.me/certificates/ASPBMROH.pdf)
+ |Introdução ao Srum|[Certificado](https://hermes.dio.me/certificates/ASPBMROH.pdf)
 
  |DevOps e Processos de Desenvolvimento de Software|[Certificado](https://hermes.dio.me/certificates/LVPRVZKQ.pdf)
 
