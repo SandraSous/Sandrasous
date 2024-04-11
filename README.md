@@ -33,6 +33,8 @@
 
  |Conceitos de IA|[Certificado](https://hermes.dio.me/certificates/MUNSLGXN.pdf)
 
+-------------------------
+![Sandra Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrasous&show_icons=true&theme=radical)
 
 
 
